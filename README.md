@@ -7,4 +7,4 @@
 
 ![Alt text](https://github.com/ahumingfang/Unified-RI-FDTD-/blob/main/example%20figures/Fig7(a).png)
 
-![Alt text](https://github.com/ahumingfang/Unified-RI-FDTD-/blob/main/example%20figures/Fig8(a).png)
+<img src = "https://github.com/ahumingfang/Unified-RI-FDTD-/blob/main/example%20figures/Fig8(a).png" width="375" alt = "Brain SAR">
